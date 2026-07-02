@@ -1,0 +1,5 @@
+Cluster,Gender_Dominan,Gender_Persentase,Marital_status_Dominan,Marital_status_Persentase,Employees_status_Dominan,Employees_status_Persentase,Payment_method_Dominan,Payment_method_Persentase,Segment_Dominan,Segment_Persentase,State_names_Dominan,State_names_Persentase,DayOfWeek_Dominan,DayOfWeek_Persentase
+0,Female,53.07,Married,58.75,Employees,41.32,PayPal,44.97,Basic,45.39,Illinois,3.87,Wednesday,14.37
+1,Female,51.96,Married,58.65,Employees,37.83,PayPal,44.87,Basic,43.94,Florida,4.14,Wednesday,14.33
+2,Female,57.27,Married,57.79,Employees,38.35,PayPal,46.65,Basic,47.36,Kentucky,3.3,Tuesday,14.37
+3,Female,50.57,Married,59.53,Workers,38.49,PayPal,49.16,Basic,45.9,Georgia,3.44,Tuesday,14.41

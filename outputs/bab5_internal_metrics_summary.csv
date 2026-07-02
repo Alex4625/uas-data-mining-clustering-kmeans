@@ -1,0 +1,6 @@
+Metrik,Nilai,Interpretasi Umum
+Jumlah Cluster (K),4.0,Jumlah cluster final yang dievaluasi
+Inertia/WCSS,3159748.99,Semakin kecil menunjukkan total jarak data ke centroid semakin kecil
+Silhouette Score (sample 10.000),0.1465,Semakin mendekati 1 semakin baik; nilai mendekati 0 menunjukkan cluster berdekatan
+Davies-Bouldin Index (sample 10.000),1.7727,Semakin kecil semakin baik
+Calinski-Harabasz Index (sample 10.000),1762.96,Semakin besar semakin baik

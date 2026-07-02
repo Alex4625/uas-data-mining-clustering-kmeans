@@ -1,0 +1,5 @@
+Cluster,Jumlah Transaksi,Persentase (%),Rata-rata Age,Median Age,Rata-rata Amount_spent,Median Amount_spent,Referral dominan,Gender dominan,Marital dominan,Employees dominan,Payment dominan,Segment bawaan dominan,State dominan
+0,196746,21.77,46.45,47.0,2461.06,2568.34,1.0,Female,Married,Employees,PayPal,Basic,Illinois
+1,190219,21.04,29.47,29.0,904.27,904.22,1.0,Female,Married,Employees,PayPal,Basic,Florida
+2,296471,32.8,46.51,47.0,1428.84,1396.59,0.0,Female,Married,Employees,PayPal,Basic,Kentucky
+3,220499,24.39,62.39,63.0,908.23,875.44,1.0,Female,Married,Workers,PayPal,Basic,Georgia

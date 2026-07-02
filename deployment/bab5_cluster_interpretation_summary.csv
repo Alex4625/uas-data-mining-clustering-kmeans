@@ -1,0 +1,5 @@
+Cluster,Nama Profil,Karakteristik Utama,Rekomendasi Awal
+0,Transaksi high value dengan referral,Pengeluaran tertinggi dan seluruhnya didominasi referral,"Pertahankan loyalitas, tawarkan program premium atau bundling produk"
+1,Transaksi pelanggan muda berpengeluaran rendah,Usia rata-rata paling muda dengan pengeluaran rendah,"Gunakan voucher, cashback, dan rekomendasi produk terjangkau"
+2,Transaksi non-referral berpengeluaran sedang,Cluster terbesar dan didominasi transaksi tanpa referral,Dorong program referral dan retensi karena kelompok ini besar
+3,Transaksi usia senior berpengeluaran rendah,Usia rata-rata paling tinggi dengan pengeluaran rendah,Gunakan pendekatan layanan sederhana dan promo kebutuhan rutin

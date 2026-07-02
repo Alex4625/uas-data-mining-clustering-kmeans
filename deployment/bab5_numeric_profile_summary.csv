@@ -1,0 +1,5 @@
+Cluster,Jumlah_Transaksi,Persentase,Rata_rata_Age,Median_Age,Rata_rata_Amount_spent,Median_Amount_spent,Std_Amount_spent,Referral_Rate
+0,196746,21.77,46.45,47.0,2461.06,2568.34,413.55,1.0
+1,190219,21.04,29.47,29.0,904.27,904.22,538.9,1.0
+2,296471,32.8,46.51,47.0,1428.84,1396.59,863.12,0.0
+3,220499,24.39,62.39,63.0,908.23,875.44,545.78,1.0
